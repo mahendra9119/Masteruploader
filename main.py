@@ -15,10 +15,10 @@ plugins = dict(root="plugins")
 
 if __name__ == "__main__":
     bot = bot(
-        "Bot",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config.API_ID,
-        api_hash=Config.API_HASH,
+        "Txtuploader2_bot",
+        bot_token=Config.7565091501:AAEBHeV2F30qZ46Ol4bXN1JX0qQLZ5P1_uA,
+        api_id=Config.28021723,
+        api_hash=Config.f6b0736c56e8544e6d55b7c4ef169a68,
         sleep_threshold=120,
         plugins=plugins,
         workers=10,
